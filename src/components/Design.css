@@ -1,0 +1,12 @@
+.input{
+    border: 50px;
+}
+.btn
+{
+    background-color: black;
+    color:white;
+}
+.btn:hover
+{
+    background-color: aqua;
+}
